@@ -1,0 +1,6 @@
+com.blip.dao
+com.blip.entity
+com.blip.services
+com.blip.services.local
+com.blip.test
+com.blip.test.restserver
