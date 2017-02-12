@@ -9,11 +9,11 @@ import java.util.List;
 import com.blip.entity.Purchase;
 
 /**
- * This interface provides a contract about the services are disponible for the
- * others backend services. If are using a web application container we can
+ * This interface provides a contract about the services are available for the
+ * others back-end services. If are using a web application container we can
  * annotate this interface as an EJB and inject this interface to use their
  * services, is possible to use a Web Service with a WSDL file or a REST call.
- * Depends only the envirioment that are the others backend services.
+ * Depends only the environment that are the others back-end services.
  * 
  * @author leomarques
  * 
